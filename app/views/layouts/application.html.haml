@@ -1,0 +1,14 @@
+!!!5
+%html
+  %head
+    %title Konacha Demo
+    = stylesheet_link_tag :application, :media => :all
+    = javascript_include_tag :application
+    = csrf_meta_tags
+    %link{:rel => 'author', :type => 'text/plain', :href => '/humans.txt'}
+    %meta{'http-equiv' => 'X-UA-Compatible', :content => 'chrome=1'}
+    = yield :head
+
+  %body
+    %section#main
+      = yield

@@ -1,0 +1,12 @@
+/* TEAM */
+  This app was built by IoraHealth
+  Web: http://iorahealth.com
+  Twitter: @IoraEngineering
+  Email: rubygems@iorahealth.com
+  Location: Cambridge, MA
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Ruby on Rails
+  Software: OSX
+  Frameworks: Ruby on Rails, jQuery, Backbone
